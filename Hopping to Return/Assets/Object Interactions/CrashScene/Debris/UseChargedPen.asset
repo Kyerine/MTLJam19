@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f22bf593189a44c8a2147403e4dfe39, type: 3}
+  m_Name: UseChargedPen
+  m_EditorClassIdentifier: 
+  description: 
+  conditions:
+  - {fileID: 11400000, guid: 47e287076d50c474aa1e43da0e7ab20c, type: 2}
+  reaction: {fileID: 11400000, guid: 57d61ecc03fdb41aea82f0f3af0f3b8e, type: 2}

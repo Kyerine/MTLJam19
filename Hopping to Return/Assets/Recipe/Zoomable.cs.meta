@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58eeabab69c00e644ae8e6afd9782621
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowl: {fileID: 6446909388597246540, guid: f0874ff039d54804d9c03af720d79dbe, type: 3}
+  - water: {fileID: 7515350487834476579, guid: a7d63b54386eb984ba3fd50b495534d9, type: 3}
+  - salt: {fileID: 8416581717991586109, guid: 1e7589e52c71ebf418b0610830fd8465, type: 3}
+  - sugar: {fileID: 6627651114165320196, guid: 7289366f9eb2a614a8641e2c06609c03, type: 3}
+  - flour: {fileID: 6655205552698428461, guid: 106e029b168d61441ad639ed90bf3545, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
